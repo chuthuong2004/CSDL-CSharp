@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\bin\Debug\GUI-UpdateDataBase.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\bin\Debug\GUI-UpdateDataBase.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\bin\Debug\GUI-UpdateDataBase.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI-UpdateDataBase.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI_UpdateDataBase.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI_UpdateDataBase.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI-UpdateDataBase.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI-UpdateDataBase.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI-UpdateDataBase.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-UpdateDataBase\obj\Debug\GUI-UpdateDataBase.pdb

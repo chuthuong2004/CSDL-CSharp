@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\bin\Debug\GUI-Stored-Procedured.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\bin\Debug\GUI-Stored-Procedured.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\bin\Debug\GUI-Stored-Procedured.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI-Stored-Procedured.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI_Stored_Procedured.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI_Stored_Procedured.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI-Stored-Procedured.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI-Stored-Procedured.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI-Stored-Procedured.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Stored-Procedured\obj\Debug\GUI-Stored-Procedured.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\bin\Debug\GUI-InsertDataBase.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\bin\Debug\GUI-InsertDataBase.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\bin\Debug\GUI-InsertDataBase.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI_InsertDataBase.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI_InsertDataBase.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI-InsertDataBase.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI-InsertDataBase.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI-InsertDataBase.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI-InsertDataBase.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-InsertDataBase\obj\Debug\GUI-InsertDataBase.csproj.AssemblyReference.cache

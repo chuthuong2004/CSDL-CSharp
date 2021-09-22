@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\bin\Debug\GUI-BindingWizard.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\bin\Debug\GUI-BindingWizard.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\bin\Debug\GUI-BindingWizard.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\obj\Debug\GUI_BindingWizard.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\obj\Debug\GUI_BindingWizard.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\obj\Debug\GUI-BindingWizard.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\obj\Debug\GUI-BindingWizard.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\obj\Debug\GUI-BindingWizard.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingWizard\obj\Debug\GUI-BindingWizard.pdb

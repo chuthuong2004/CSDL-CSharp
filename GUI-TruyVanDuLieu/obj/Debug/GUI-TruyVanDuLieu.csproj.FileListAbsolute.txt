@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\bin\Debug\GUI-TruyVanDuLieu.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\bin\Debug\GUI-TruyVanDuLieu.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\bin\Debug\GUI-TruyVanDuLieu.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI-TruyVanDuLieu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI_TruyVanDuLieu.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI_TruyVanDuLieu.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI-TruyVanDuLieu.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI-TruyVanDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI-TruyVanDuLieu.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI-TruyVanDuLieu.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-TruyVanDuLieu\obj\Debug\GUI_TruyVanDuLieu.Form2.resources

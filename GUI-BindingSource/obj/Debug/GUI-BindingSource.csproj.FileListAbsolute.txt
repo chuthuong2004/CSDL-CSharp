@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\bin\Debug\GUI-BindingSource.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\bin\Debug\GUI-BindingSource.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\bin\Debug\GUI-BindingSource.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\obj\Debug\GUI_BindingSource.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\obj\Debug\GUI_BindingSource.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\obj\Debug\GUI-BindingSource.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\obj\Debug\GUI-BindingSource.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\obj\Debug\GUI-BindingSource.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-BindingSource\obj\Debug\GUI-BindingSource.pdb

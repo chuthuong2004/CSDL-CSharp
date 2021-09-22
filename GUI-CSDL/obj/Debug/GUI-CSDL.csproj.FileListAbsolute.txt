@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\bin\Debug\GUI-CSDL.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\bin\Debug\GUI-CSDL.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\bin\Debug\GUI-CSDL.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI-CSDL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI_CSDL.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI_CSDL.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI-CSDL.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI-CSDL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI-CSDL.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-CSDL\obj\Debug\GUI-CSDL.pdb

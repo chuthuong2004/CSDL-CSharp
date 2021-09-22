@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\bin\Debug\GUI-DeleteDataBase.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\bin\Debug\GUI-DeleteDataBase.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\bin\Debug\GUI-DeleteDataBase.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI-DeleteDataBase.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI_DeleteDataBase.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI_DeleteDataBase.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI-DeleteDataBase.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI-DeleteDataBase.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI-DeleteDataBase.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-DeleteDataBase\obj\Debug\GUI-DeleteDataBase.pdb

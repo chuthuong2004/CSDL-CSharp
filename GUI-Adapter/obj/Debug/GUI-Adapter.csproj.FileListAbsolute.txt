@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\bin\Debug\GUI-Adapter.exe.config
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\bin\Debug\GUI-Adapter.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\bin\Debug\GUI-Adapter.pdb
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI-Adapter.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI_Adapter.Form1.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI_Adapter.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI-Adapter.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI-Adapter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI-Adapter.exe
+C:\Users\PC\source\repos\GUI-CSDL\GUI-Adapter\obj\Debug\GUI-Adapter.pdb
